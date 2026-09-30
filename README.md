@@ -10,6 +10,8 @@ I build production-minded AI systems: RAG pipelines, multi-agent workflows, and 
 [![OperationOS](https://img.shields.io/badge/Founder-OperationOS-0F172A?style=for-the-badge)](https://operationos.org/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ahmed--awan123-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-awan123)
 
+![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedawan216&show_icons=true&theme=dark&hide_border=true)
+
 </div>
 
 ---
