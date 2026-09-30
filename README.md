@@ -51,10 +51,6 @@ I build production-minded AI systems: RAG pipelines, multi-agent workflows, and 
 | [**LuminaEdit**](https://github.com/ahmedawan216/LuminaEdit) | Real-time browser image editor | React, HTML5 Canvas |
 | [**Portfolio**](https://github.com/ahmedawan216/ahmed-awan-portfolio) | 15+ interactive projects and certifications | React, Tailwind CSS |
 
-
-![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedawan216&show_icons=true&theme=dark&hide_border=true)
-
-
 ## 📫 Let's connect
 
 - 🌐 Portfolio: [ahmed-ai-engr-portfolio.vercel.app](https://ahmed-ai-engr-portfolio.vercel.app/)
