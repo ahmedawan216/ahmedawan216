@@ -17,7 +17,6 @@ I build production-minded AI systems: RAG pipelines, multi-agent workflows, and 
 ## 🚀 What I'm working on
 
 - **OperationOS**: building an operating system for AI agents / AI employees ([operationos.org](https://operationos.org/))
-- Completing the **Generative AI Engineering Program at SMIT**
 - Software Engineering student at Virtual University of Pakistan
 - Open to **remote AI Engineer roles and freelance projects**
 
@@ -46,8 +45,8 @@ I build production-minded AI systems: RAG pipelines, multi-agent workflows, and 
 | Project | What it does | Stack |
 |---|---|---|
 | [**AI Interview Coach**](https://github.com/ahmedawan216/AI-Interview-Coach) | 6-agent LangGraph system with TTS, live scoring and session persistence (SMIT capstone) | LangGraph, Python, TTS |
-| [**InteractDocs**](https://github.com/ahmedawan216/InteractDocs) | RAG PDF analyzer: chat with your documents | LangChain, FAISS, HuggingFace, Groq, Streamlit |
-| [**Pepper AI Assistant**](https://github.com/ahmedawan216/Pepper-AI-Assistant) | Streaming chatbot with persistent memory | Python, SQLite |
+| [**InteractDocs**](https://github.com/ahmedawan216/PDF-RAG-Q-A-Project) | RAG PDF analyzer: chat with your documents | LangChain, FAISS, HuggingFace, Groq, Streamlit |
+| [**Pepper AI Assistant**](https://github.com/ahmedawan216/Pepper_AI-Chatbot) | Streaming chatbot with persistent memory | Python, SQLite |
 | [**Jelly AI**](https://github.com/ahmedawan216/Jelly-AI) | AI assistant with voice input and text-to-speech | React, Firebase, OpenAI |
 | [**LuminaEdit**](https://github.com/ahmedawan216/LuminaEdit) | Real-time browser image editor | React, HTML5 Canvas |
 | [**Portfolio**](https://github.com/ahmedawan216/ahmed-awan-portfolio) | 15+ interactive projects and certifications | React, Tailwind CSS |
