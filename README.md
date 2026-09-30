@@ -10,8 +10,6 @@ I build production-minded AI systems: RAG pipelines, multi-agent workflows, and 
 [![OperationOS](https://img.shields.io/badge/Founder-OperationOS-0F172A?style=for-the-badge)](https://operationos.org/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ahmed--awan123-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-awan123)
 
-![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedawan216&show_icons=true&theme=dark&hide_border=true)
-
 </div>
 
 ---
@@ -52,6 +50,9 @@ I build production-minded AI systems: RAG pipelines, multi-agent workflows, and 
 | [**Jelly AI**](https://github.com/ahmedawan216/Jelly-AI) | AI assistant with voice input and text-to-speech | React, Firebase, OpenAI |
 | [**LuminaEdit**](https://github.com/ahmedawan216/LuminaEdit) | Real-time browser image editor | React, HTML5 Canvas |
 | [**Portfolio**](https://github.com/ahmedawan216/ahmed-awan-portfolio) | 15+ interactive projects and certifications | React, Tailwind CSS |
+
+--
+![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedawan216&show_icons=true&theme=dark&hide_border=true)
 
 ## 📫 Let's connect
 
